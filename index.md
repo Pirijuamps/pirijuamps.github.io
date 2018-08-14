@@ -2,7 +2,7 @@
 ## Bienvenidos a mi página
 
 ### ¿Quién soy? - Biografía
-Mini biografía.
+Mi nombre es Juan Pablo Hernández Vázquez y nací el 17 de octubre de 1998 en Hermosillo, Sonora. A los 3 años mi familia y yo nos mudamos a Tijuana, Baja California dónde vivimos hasta la fecha. 
 
 ### Vida académica
 
