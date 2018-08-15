@@ -11,6 +11,7 @@ Durante la primaria y secundaria siempre fue mi principal objetivo destacar entr
 Actualmente trabajo en la biblioteca CETYS como becario, apoyo en el área de circulación. Antes de este trabajo, solo he participado en puestos informales en negocios familiares (como vender [nísperos](https://es.wikipedia.org/wiki/Eriobotrya_japonica) en mi casa).
 
 ### Hobbies
-
+Dentro de mis hobbies está jugar videojuegos como mi entretenimiento más seguro, sin embargo, disfruto mucho también de practicar malabares y tratar de resolver retos de programación (apenas estoy empezando). Estoy tratando de adentrarme más a la lectura diaria de material relevante a mi carrera.
 
 ### Ciencias de la Computación Aplicadas (CCA)
+- [ensayo 1](https://drive.google.com/open?id=1uPTwcGMC48-MD9gbLqAVhqzgAzcKstX6ROAClG6_Vys)
