@@ -14,4 +14,4 @@ Actualmente trabajo en la biblioteca CETYS como becario, apoyo en el área de ci
 Dentro de mis hobbies está jugar videojuegos como mi entretenimiento más seguro, sin embargo, disfruto mucho también de practicar malabares y tratar de resolver retos de programación (apenas estoy empezando). Estoy tratando de adentrarme más a la lectura diaria de material relevante a mi carrera.
 
 ### Ciencias de la Computación Aplicadas (CCA)
-- [ensayo 1](https://drive.google.com/open?id=1uPTwcGMC48-MD9gbLqAVhqzgAzcKstX6ROAClG6_Vys)
+- [Ensayo 1](https://docs.google.com/document/d/1uPTwcGMC48-MD9gbLqAVhqzgAzcKstX6ROAClG6_Vys/edit?usp=sharing)
