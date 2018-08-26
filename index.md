@@ -16,3 +16,4 @@ Dentro de mis hobbies está jugar videojuegos como mi entretenimiento más segur
 
 ### Ciencias de la Computación Aplicadas (CCA)
 - [Ensayo 1](https://docs.google.com/document/d/1uPTwcGMC48-MD9gbLqAVhqzgAzcKstX6ROAClG6_Vys/edit?usp=sharing)
+- [Ensayo 2](https://docs.google.com/document/d/1oEsbObkbcacGxwBKTR3KXn46hEBvymJ1YhZCUInknEY/edit?usp=sharing)
