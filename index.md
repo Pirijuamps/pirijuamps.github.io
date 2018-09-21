@@ -19,3 +19,4 @@ Dentro de mis hobbies está jugar videojuegos como mi entretenimiento más segur
 - [Ensayo 2](https://docs.google.com/document/d/1oEsbObkbcacGxwBKTR3KXn46hEBvymJ1YhZCUInknEY/edit?usp=sharing)
 - [Ensayo 3](https://docs.google.com/document/d/1haUwShW6yTw-T1wN5CquHmh0203v-w8hfuyjVqW1RZ8/edit?usp=sharing)
 - [Ensayo 4](https://docs.google.com/document/d/13_QG_mGh3tvPMAoPMo2vzSkpNn9VsRLnvED2yP0pj54/edit?usp=sharing)
+- [Ensayo 5](https://docs.google.com/document/d/1iZtF54pyJjgmwnyo3MYe0B3-G9oA-VkBRx6nwPH3hOc/edit?usp=sharing)
